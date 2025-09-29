@@ -4,3 +4,4 @@ Overall, I believe that the goal of this project, which is to design, deploy, an
 
 Looking back at the code, I learned the value of using mapping(bytes32 => uint256) public proofs; to securely store document hashes with timestamps. The require statement in notarizeDocument also stood out, as it prevented duplicate entries and ensured data integrity. Still, the contract could be improved with better access control or more efficient timestamp handling. By combining notarizeDocument and verifyDocument, I was able to achieve reliable verification of document existence on the blockchain.
 
+require(proofs[_documentHash] == 0, "Document already notarized.");

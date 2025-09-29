@@ -20,4 +20,4 @@ with
 
 I was able to create a working system where documents can be notarized and later verified reliably.
 
-Ultimately, what really stood out to me in the end was realizing that even making a simple contract for a Sepolia ETH transfer still requires a fair amount of coding knowledge.  But now that I've completed this process, I know how to write code for a smart contract and see how it operates in practice.  I could have done better if I had researched more about how smart contracts work and what they do, as well as how blockchain works in general.  Additionally, I realized that I needed to pay more attention to the directions because I personally had trouble organizing the screenshots I needed at times. These challenges showed me where I can grow and made the project a meaningful learning experience.
+Personally, I believe could have done better if I had researched more about how smart contracts work and what they do, as well as how blockchain works in general, since this would've assisted me in making the code faster. Ultimately, this project has allowed me to grow, and made the project a meaningful learning experience.

@@ -1,6 +1,6 @@
 # Personal Reflection
 
-Overall, I have learnt many things from this project. I believe that the goal of this project, which is to design, deploy, and verify a smart contract for proof of existence on the Sepolia testnet, has been successfully achieved. This can be seen from the fact that my contract was deployed, verified on Etherscan, and interacted with correctly, producing both true and false verification results at their respective hashes. Furthermore, the project required not only deploying the contract but also handling Sepolia ETH for transactions and gas fees, which deepened my understanding of blockchain networks.
+Overall, I have gained substantial knowledge throughout this project. I believe that the goal of this project, which is to design, deploy, and verify a smart contract for proof of existence on the Sepolia testnet, has been successfully achieved. This can be seen from the fact that my contract was deployed, verified on Etherscan, and interacted with correctly, producing both true and false verification results at their respective hashes. Furthermore, the project required not only deploying the contract but also handling Sepolia ETH for transactions and gas fees, which deepened my understanding of blockchain networks.
 
 When going back to the code, one of the most important parts I learned from was the use of
 

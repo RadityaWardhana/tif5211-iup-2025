@@ -20,4 +20,4 @@ with
 
 I was able to create a working system where documents can be notarized and later verified reliably.
 
-Personally, I believe could have done better if I had researched more about how smart contracts work and what they do, as well as how blockchain works in general, since this would've assisted me in making the code faster. Ultimately, this project has allowed me to grow, and made the project a meaningful learning experience.
+Personally, I believe could have done better if I had researched more about how smart contracts work and what they do, as well as how blockchain works in general, since this would've assisted me in making the code faster. Ultimately, creating a code for this smart contract has allowed me to grow as a programmer, and made the project a meaningful learning experience.

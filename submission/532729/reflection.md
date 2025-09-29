@@ -1,0 +1,3 @@
+# Personal Reflection
+The goal of this project was to design, deploy, and verify a proof-of-existence smart contract on the Ethereum Sepolia test network. I was able to meet these goals successfully: the contract was deployed, verified on Etherscan, and tested with both positive and negative verification cases. From a non-technical perspective, the process showed me how important clear documentation and repeatable steps are. Beyond just coding, I had to organize my files, prepare screenshots, and ensure everything could be followed by others. This reinforced the fact that blockchain development is not only technical but also about building confidence and trust in the results.
+
